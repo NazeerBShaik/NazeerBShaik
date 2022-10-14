@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @NazeerBShaik
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning react.js
-- 📫 How to reach me nazeershaik.code@gmail.com
+Hi there! 👋, I'm Nazeer.
+🔭 I’m currently working as Front End Developer.
+🌱 I’m currently learning React and TypeScript.
+👯 I’m looking to collaborate with other Software Developers.
+😄 Pronouns: He / Him.
+📫 How to reach me: LinkedIn
+⚡ Fun fact: I love reading programming jokes/memes.
+Languages:
+  TypeScript
+  JavaScript
+  HTML5
+  CSS3
 
-<!---
-NazeerBShaik/NazeerBShaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Tools:
+  Visual Studio Code
+  Git
+  GitHubTerminal
